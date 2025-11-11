@@ -1,0 +1,15 @@
+# Large model files (hosted on HF)
+out/
+*.pt
+*.bin
+*.safetensors
+
+# Python/Venv
+venv/
+__pycache__/
+*.pyc
+*.log
+
+# OS
+.DS_Store
+# HF Secrets\nhf_login*\n*.token

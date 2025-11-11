@@ -1,0 +1,809 @@
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00147.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00148.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00162.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00163.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00149.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00164.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00165.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00166.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00180.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00181.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00167.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00168.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00182.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00183.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00169.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00170.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00184.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00185.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00171.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00172.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00186.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00187.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00173.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00174.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00188.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00189.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00175.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00176.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00190.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00191.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00177.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00178.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00192.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00193.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00179.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00194.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00195.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00196.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00210.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00211.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00197.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00198.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00212.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00213.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00199.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00200.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00214.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00215.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00201.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00202.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00216.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00217.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00203.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00204.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00218.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00219.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00205.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00206.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00220.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00221.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00207.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00208.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00222.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00223.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00209.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00224.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00225.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00226.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00227.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00228.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00229.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00230.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00231.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00232.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00233.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00234.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00235.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00236.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00237.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00238.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00239.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00122.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00102.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00123.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00124.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00103.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00125.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00126.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00104.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00127.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00128.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00129.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00130.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00131.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00132.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00133.parquet (already exists)
+Skipping /home/ubuntu/.cache/nanochat/base_data/shard_00134.parquet (already exists)
+Done! Downloaded: 240/240 shards to /home/ubuntu/.cache/nanochat/base_data
+max_chars: 2,000,000,000
+doc_cap: 10,000
+vocab_size: 65,536
+2025-11-11 08:39:57,704 - rustbpe - INFO - Processing sequences from iterator (buffer_size: 8192)
+2025-11-11 08:40:51,284 - rustbpe - INFO - Processed 532496 sequences total, 2233873 unique
+2025-11-11 08:40:51,443 - rustbpe - INFO - Starting BPE training: 65271 merges to compute
+2025-11-11 08:40:51,443 - rustbpe - INFO - Computing initial pair counts from 2233873 unique sequences
+2025-11-11 08:40:56,777 - rustbpe - INFO - Building heap with 18337 unique pairs
+2025-11-11 08:40:56,779 - rustbpe - INFO - Starting merge loop
+2025-11-11 08:41:00,829 - rustbpe - INFO - Progress: 1% (653/65271 merges) - Last merge: (32, 568) -> 908 (frequency: 255265)
+2025-11-11 08:41:01,372 - rustbpe - INFO - Progress: 2% (1306/65271 merges) - Last merge: (87, 101) -> 1561 (frequency: 110111)
+2025-11-11 08:41:01,669 - rustbpe - INFO - Progress: 3% (1959/65271 merges) - Last merge: (1347, 716) -> 2214 (frequency: 67040)
+2025-11-11 08:41:01,938 - rustbpe - INFO - Progress: 4% (2611/65271 merges) - Last merge: (714, 280) -> 2866 (frequency: 46401)
+2025-11-11 08:41:02,183 - rustbpe - INFO - Progress: 5% (3264/65271 merges) - Last merge: (1108, 289) -> 3519 (frequency: 34743)
+2025-11-11 08:41:02,373 - rustbpe - INFO - Progress: 6% (3917/65271 merges) - Last merge: (420, 262) -> 4172 (frequency: 27219)
+2025-11-11 08:41:02,521 - rustbpe - INFO - Progress: 7% (4569/65271 merges) - Last merge: (116, 97) -> 4824 (frequency: 22123)
+2025-11-11 08:41:02,699 - rustbpe - INFO - Progress: 8% (5222/65271 merges) - Last merge: (1381, 108) -> 5477 (frequency: 18395)
+2025-11-11 08:41:02,831 - rustbpe - INFO - Progress: 9% (5875/65271 merges) - Last merge: (3848, 5283) -> 6130 (frequency: 15547)
+2025-11-11 08:41:02,981 - rustbpe - INFO - Progress: 10% (6528/65271 merges) - Last merge: (324, 1426) -> 6783 (frequency: 13336)
+2025-11-11 08:41:03,078 - rustbpe - INFO - Progress: 11% (7180/65271 merges) - Last merge: (5059, 2488) -> 7435 (frequency: 11636)
+2025-11-11 08:41:03,190 - rustbpe - INFO - Progress: 12% (7833/65271 merges) - Last merge: (509, 273) -> 8088 (frequency: 10199)
+2025-11-11 08:41:03,265 - rustbpe - INFO - Progress: 13% (8486/65271 merges) - Last merge: (313, 7877) -> 8741 (frequency: 8981)
+2025-11-11 08:41:03,364 - rustbpe - INFO - Progress: 14% (9138/65271 merges) - Last merge: (4870, 109) -> 9393 (frequency: 8021)
+2025-11-11 08:41:03,454 - rustbpe - INFO - Progress: 15% (9791/65271 merges) - Last merge: (1045, 3484) -> 10046 (frequency: 7217)
+2025-11-11 08:41:03,540 - rustbpe - INFO - Progress: 16% (10444/65271 merges) - Last merge: (372, 34) -> 10699 (frequency: 6515)
+2025-11-11 08:41:03,606 - rustbpe - INFO - Progress: 17% (11097/65271 merges) - Last merge: (46, 8940) -> 11352 (frequency: 5894)
+2025-11-11 08:41:03,682 - rustbpe - INFO - Progress: 18% (11749/65271 merges) - Last merge: (296, 2782) -> 12004 (frequency: 5367)
+2025-11-11 08:41:03,742 - rustbpe - INFO - Progress: 19% (12402/65271 merges) - Last merge: (662, 9820) -> 12657 (frequency: 4972)
+2025-11-11 08:41:03,793 - rustbpe - INFO - Progress: 20% (13055/65271 merges) - Last merge: (265, 2166) -> 13310 (frequency: 4591)
+2025-11-11 08:41:03,857 - rustbpe - INFO - Progress: 21% (13707/65271 merges) - Last merge: (317, 380) -> 13962 (frequency: 4272)
+2025-11-11 08:41:03,942 - rustbpe - INFO - Progress: 22% (14360/65271 merges) - Last merge: (6986, 1695) -> 14615 (frequency: 3966)
+2025-11-11 08:41:04,003 - rustbpe - INFO - Progress: 23% (15013/65271 merges) - Last merge: (12113, 12401) -> 15268 (frequency: 3697)
+2025-11-11 08:41:04,060 - rustbpe - INFO - Progress: 24% (15666/65271 merges) - Last merge: (949, 12073) -> 15921 (frequency: 3446)
+2025-11-11 08:41:04,125 - rustbpe - INFO - Progress: 25% (16318/65271 merges) - Last merge: (420, 263) -> 16573 (frequency: 3226)
+2025-11-11 08:41:04,219 - rustbpe - INFO - Progress: 26% (16971/65271 merges) - Last merge: (342, 263) -> 17226 (frequency: 3027)
+2025-11-11 08:41:04,264 - rustbpe - INFO - Progress: 27% (17624/65271 merges) - Last merge: (441, 3460) -> 17879 (frequency: 2852)
+2025-11-11 08:41:04,330 - rustbpe - INFO - Progress: 28% (18276/65271 merges) - Last merge: (313, 13271) -> 18531 (frequency: 2699)
+2025-11-11 08:41:04,384 - rustbpe - INFO - Progress: 29% (18929/65271 merges) - Last merge: (45, 450) -> 19184 (frequency: 2546)
+2025-11-11 08:41:04,427 - rustbpe - INFO - Progress: 30% (19582/65271 merges) - Last merge: (428, 3299) -> 19837 (frequency: 2400)
+2025-11-11 08:41:04,460 - rustbpe - INFO - Progress: 31% (20235/65271 merges) - Last merge: (313, 274) -> 20490 (frequency: 2276)
+2025-11-11 08:41:04,507 - rustbpe - INFO - Progress: 32% (20887/65271 merges) - Last merge: (2804, 293) -> 21142 (frequency: 2155)
+2025-11-11 08:41:04,543 - rustbpe - INFO - Progress: 33% (21540/65271 merges) - Last merge: (629, 321) -> 21795 (frequency: 2049)
+2025-11-11 08:41:04,580 - rustbpe - INFO - Progress: 34% (22193/65271 merges) - Last merge: (10820, 363) -> 22448 (frequency: 1945)
+2025-11-11 08:41:04,619 - rustbpe - INFO - Progress: 35% (22845/65271 merges) - Last merge: (15499, 10886) -> 23100 (frequency: 1850)
+2025-11-11 08:41:04,648 - rustbpe - INFO - Progress: 36% (23498/65271 merges) - Last merge: (5037, 756) -> 23753 (frequency: 1758)
+2025-11-11 08:41:04,690 - rustbpe - INFO - Progress: 37% (24151/65271 merges) - Last merge: (1811, 1627) -> 24406 (frequency: 1673)
+2025-11-11 08:41:04,723 - rustbpe - INFO - Progress: 38% (24803/65271 merges) - Last merge: (10235, 3181) -> 25058 (frequency: 1598)
+2025-11-11 08:41:04,760 - rustbpe - INFO - Progress: 39% (25456/65271 merges) - Last merge: (16956, 1121) -> 25711 (frequency: 1525)
+2025-11-11 08:41:04,798 - rustbpe - INFO - Progress: 40% (26109/65271 merges) - Last merge: (2419, 636) -> 26364 (frequency: 1462)
+2025-11-11 08:41:04,834 - rustbpe - INFO - Progress: 41% (26762/65271 merges) - Last merge: (2549, 1122) -> 27017 (frequency: 1402)
+2025-11-11 08:41:04,874 - rustbpe - INFO - Progress: 42% (27414/65271 merges) - Last merge: (99, 1091) -> 27669 (frequency: 1343)
+2025-11-11 08:41:04,911 - rustbpe - INFO - Progress: 43% (28067/65271 merges) - Last merge: (216, 170) -> 28322 (frequency: 1288)
+2025-11-11 08:41:04,950 - rustbpe - INFO - Progress: 44% (28720/65271 merges) - Last merge: (402, 263) -> 28975 (frequency: 1233)
+2025-11-11 08:41:04,983 - rustbpe - INFO - Progress: 45% (29372/65271 merges) - Last merge: (19389, 466) -> 29627 (frequency: 1190)
+2025-11-11 08:41:05,016 - rustbpe - INFO - Progress: 46% (30025/65271 merges) - Last merge: (4600, 76) -> 30280 (frequency: 1145)
+2025-11-11 08:41:05,042 - rustbpe - INFO - Progress: 47% (30678/65271 merges) - Last merge: (304, 849) -> 30933 (frequency: 1100)
+2025-11-11 08:41:05,073 - rustbpe - INFO - Progress: 48% (31331/65271 merges) - Last merge: (5090, 596) -> 31586 (frequency: 1063)
+2025-11-11 08:41:05,097 - rustbpe - INFO - Progress: 49% (31983/65271 merges) - Last merge: (21702, 9305) -> 32238 (frequency: 1026)
+2025-11-11 08:41:05,122 - rustbpe - INFO - Progress: 50% (32636/65271 merges) - Last merge: (78, 11441) -> 32891 (frequency: 988)
+2025-11-11 08:41:05,151 - rustbpe - INFO - Progress: 51% (33289/65271 merges) - Last merge: (17782, 373) -> 33544 (frequency: 956)
+2025-11-11 08:41:05,177 - rustbpe - INFO - Progress: 52% (33941/65271 merges) - Last merge: (6872, 474) -> 34196 (frequency: 925)
+2025-11-11 08:41:05,202 - rustbpe - INFO - Progress: 53% (34594/65271 merges) - Last merge: (13160, 1816) -> 34849 (frequency: 893)
+2025-11-11 08:41:05,229 - rustbpe - INFO - Progress: 54% (35247/65271 merges) - Last merge: (336, 1855) -> 35502 (frequency: 865)
+2025-11-11 08:41:05,266 - rustbpe - INFO - Progress: 55% (35900/65271 merges) - Last merge: (446, 276) -> 36155 (frequency: 838)
+2025-11-11 08:41:05,286 - rustbpe - INFO - Progress: 56% (36552/65271 merges) - Last merge: (337, 1876) -> 36807 (frequency: 811)
+2025-11-11 08:41:05,307 - rustbpe - INFO - Progress: 57% (37205/65271 merges) - Last merge: (27812, 319) -> 37460 (frequency: 787)
+2025-11-11 08:41:05,328 - rustbpe - INFO - Progress: 58% (37858/65271 merges) - Last merge: (2181, 2035) -> 38113 (frequency: 763)
+2025-11-11 08:41:05,358 - rustbpe - INFO - Progress: 59% (38510/65271 merges) - Last merge: (529, 35912) -> 38765 (frequency: 739)
+2025-11-11 08:41:05,380 - rustbpe - INFO - Progress: 60% (39163/65271 merges) - Last merge: (1626, 758) -> 39418 (frequency: 717)
+2025-11-11 08:41:05,413 - rustbpe - INFO - Progress: 61% (39816/65271 merges) - Last merge: (2884, 36357) -> 40071 (frequency: 696)
+2025-11-11 08:41:05,432 - rustbpe - INFO - Progress: 62% (40469/65271 merges) - Last merge: (22732, 852) -> 40724 (frequency: 676)
+2025-11-11 08:41:05,488 - rustbpe - INFO - Progress: 63% (41121/65271 merges) - Last merge: (2718, 80) -> 41376 (frequency: 656)
+2025-11-11 08:41:05,515 - rustbpe - INFO - Progress: 64% (41774/65271 merges) - Last merge: (5190, 424) -> 42029 (frequency: 637)
+2025-11-11 08:41:05,540 - rustbpe - INFO - Progress: 65% (42427/65271 merges) - Last merge: (1598, 12834) -> 42682 (frequency: 619)
+2025-11-11 08:41:05,566 - rustbpe - INFO - Progress: 66% (43079/65271 merges) - Last merge: (1929, 2037) -> 43334 (frequency: 602)
+2025-11-11 08:41:05,581 - rustbpe - INFO - Progress: 67% (43732/65271 merges) - Last merge: (37877, 14879) -> 43987 (frequency: 585)
+2025-11-11 08:41:05,604 - rustbpe - INFO - Progress: 68% (44385/65271 merges) - Last merge: (29758, 3004) -> 44640 (frequency: 570)
+2025-11-11 08:41:05,620 - rustbpe - INFO - Progress: 69% (45037/65271 merges) - Last merge: (12204, 1404) -> 45292 (frequency: 555)
+2025-11-11 08:41:05,642 - rustbpe - INFO - Progress: 70% (45690/65271 merges) - Last merge: (2806, 259) -> 45945 (frequency: 540)
+2025-11-11 08:41:05,664 - rustbpe - INFO - Progress: 71% (46343/65271 merges) - Last merge: (9018, 34477) -> 46598 (frequency: 527)
+2025-11-11 08:41:05,683 - rustbpe - INFO - Progress: 72% (46996/65271 merges) - Last merge: (420, 8269) -> 47251 (frequency: 513)
+2025-11-11 08:41:05,702 - rustbpe - INFO - Progress: 73% (47648/65271 merges) - Last merge: (7466, 282) -> 47903 (frequency: 501)
+2025-11-11 08:41:05,717 - rustbpe - INFO - Progress: 74% (48301/65271 merges) - Last merge: (438, 4996) -> 48556 (frequency: 489)
+2025-11-11 08:41:05,734 - rustbpe - INFO - Progress: 75% (48954/65271 merges) - Last merge: (4604, 276) -> 49209 (frequency: 478)
+2025-11-11 08:41:05,759 - rustbpe - INFO - Progress: 76% (49606/65271 merges) - Last merge: (1632, 13872) -> 49861 (frequency: 466)
+2025-11-11 08:41:05,775 - rustbpe - INFO - Progress: 77% (50259/65271 merges) - Last merge: (3250, 8184) -> 50514 (frequency: 455)
+2025-11-11 08:41:05,793 - rustbpe - INFO - Progress: 78% (50912/65271 merges) - Last merge: (560, 3010) -> 51167 (frequency: 445)
+2025-11-11 08:41:05,808 - rustbpe - INFO - Progress: 79% (51565/65271 merges) - Last merge: (377, 3255) -> 51820 (frequency: 435)
+2025-11-11 08:41:05,832 - rustbpe - INFO - Progress: 80% (52217/65271 merges) - Last merge: (37215, 1508) -> 52472 (frequency: 426)
+2025-11-11 08:41:05,848 - rustbpe - INFO - Progress: 81% (52870/65271 merges) - Last merge: (14361, 31789) -> 53125 (frequency: 417)
+2025-11-11 08:41:05,863 - rustbpe - INFO - Progress: 82% (53523/65271 merges) - Last merge: (18450, 285) -> 53778 (frequency: 408)
+2025-11-11 08:41:05,877 - rustbpe - INFO - Progress: 83% (54175/65271 merges) - Last merge: (18546, 431) -> 54430 (frequency: 399)
+2025-11-11 08:41:05,892 - rustbpe - INFO - Progress: 84% (54828/65271 merges) - Last merge: (1191, 105) -> 55083 (frequency: 390)
+2025-11-11 08:41:05,909 - rustbpe - INFO - Progress: 85% (55481/65271 merges) - Last merge: (377, 112) -> 55736 (frequency: 382)
+2025-11-11 08:41:05,924 - rustbpe - INFO - Progress: 86% (56134/65271 merges) - Last merge: (1554, 97) -> 56389 (frequency: 374)
+2025-11-11 08:41:05,944 - rustbpe - INFO - Progress: 87% (56786/65271 merges) - Last merge: (35419, 791) -> 57041 (frequency: 366)
+2025-11-11 08:41:05,961 - rustbpe - INFO - Progress: 88% (57439/65271 merges) - Last merge: (1149, 97) -> 57694 (frequency: 358)
+2025-11-11 08:41:05,974 - rustbpe - INFO - Progress: 89% (58092/65271 merges) - Last merge: (3105, 755) -> 58347 (frequency: 351)
+2025-11-11 08:41:05,993 - rustbpe - INFO - Progress: 90% (58744/65271 merges) - Last merge: (701, 44294) -> 58999 (frequency: 344)
+2025-11-11 08:41:06,013 - rustbpe - INFO - Progress: 91% (59397/65271 merges) - Last merge: (441, 431) -> 59652 (frequency: 337)
+2025-11-11 08:41:06,029 - rustbpe - INFO - Progress: 92% (60050/65271 merges) - Last merge: (111, 69) -> 60305 (frequency: 330)
+2025-11-11 08:41:06,045 - rustbpe - INFO - Progress: 93% (60703/65271 merges) - Last merge: (313, 25817) -> 60958 (frequency: 323)
+2025-11-11 08:41:06,058 - rustbpe - INFO - Progress: 94% (61355/65271 merges) - Last merge: (5375, 7100) -> 61610 (frequency: 317)
+2025-11-11 08:41:06,071 - rustbpe - INFO - Progress: 95% (62008/65271 merges) - Last merge: (3460, 122) -> 62263 (frequency: 311)
+2025-11-11 08:41:06,087 - rustbpe - INFO - Progress: 96% (62661/65271 merges) - Last merge: (4719, 1622) -> 62916 (frequency: 305)
+2025-11-11 08:41:06,099 - rustbpe - INFO - Progress: 97% (63313/65271 merges) - Last merge: (58949, 46565) -> 63568 (frequency: 300)
+2025-11-11 08:41:06,112 - rustbpe - INFO - Progress: 98% (63966/65271 merges) - Last merge: (45, 391) -> 64221 (frequency: 293)
+2025-11-11 08:41:06,126 - rustbpe - INFO - Progress: 99% (64619/65271 merges) - Last merge: (1588, 18644) -> 64874 (frequency: 288)
+2025-11-11 08:41:06,138 - rustbpe - INFO - Progress: 100% (65271/65271 merges) - Last merge: (1594, 552) -> 65526 (frequency: 283)
+2025-11-11 08:41:06,138 - rustbpe - INFO - Finished training: 65271 merges completed
+Training time: 69.14s
+Saved tokenizer encoding to /home/ubuntu/.cache/nanochat/tokenizer/tokenizer.pkl
+Saved token_bytes to /home/ubuntu/.cache/nanochat/tokenizer/token_bytes.pt
+
+Vocab sizes:
+GPT-2: 50257
+GPT-4: 100277
+Ours: 65536
+
+Comparison with GPT-2:
+===============================================================================================
+Text Type  Bytes    GPT-2           Ours            Relative     Better    
+                    Tokens  Ratio   Tokens  Ratio   Diff %      
+-----------------------------------------------------------------------------------------------
+news       1819     404     4.50    375     4.85       +7.2%     Ours      
+korean     893      745     1.20    721     1.24       +3.2%     Ours      
+code       1259     576     2.19    493     2.55      +14.4%     Ours      
+math       1834     936     1.96    966     1.90       -3.2%     GPT-2     
+science    1112     260     4.28    225     4.94      +13.5%     Ours      
+fwe-train  4208518  900364  4.67    856901  4.91       +4.8%     Ours      
+fwe-val    4908443  1059062 4.63    1010356 4.86       +4.6%     Ours      
+
+Comparison with GPT-4:
+===============================================================================================
+Text Type  Bytes    GPT-4           Ours            Relative     Better    
+                    Tokens  Ratio   Tokens  Ratio   Diff %      
+-----------------------------------------------------------------------------------------------
+news       1819     387     4.70    375     4.85       +3.1%     Ours      
+korean     893      364     2.45    721     1.24      -98.1%     GPT-4     
+code       1259     309     4.07    493     2.55      -59.5%     GPT-4     
+math       1834     832     2.20    966     1.90      -16.1%     GPT-4     
+science    1112     249     4.47    225     4.94       +9.6%     Ours      
+fwe-train  4208518  874799  4.81    856901  4.91       +2.0%     Ours      
+fwe-val    4908443  1029691 4.77    1010356 4.86       +1.9%     Ours      
+Waiting for dataset download to complete...
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+
+                                                       █████                █████
+                                                      ░░███                ░░███
+     ████████    ██████   ████████    ██████   ██████  ░███████    ██████  ███████
+    ░░███░░███  ░░░░░███ ░░███░░███  ███░░███ ███░░███ ░███░░███  ░░░░░███░░░███░
+     ░███ ░███   ███████  ░███ ░███ ░███ ░███░███ ░░░  ░███ ░███   ███████  ░███
+     ░███ ░███  ███░░███  ░███ ░███ ░███ ░███░███  ███ ░███ ░███  ███░░███  ░███ ███
+     ████ █████░░████████ ████ █████░░██████ ░░██████  ████ █████░░███████  ░░█████
+    ░░░░ ░░░░░  ░░░░░░░░ ░░░░ ░░░░░  ░░░░░░   ░░░░░░  ░░░░ ░░░░░  ░░░░░░░░   ░░░░░
+    
+Overriding: depth = 20
+Overriding: run = dummy
+Overriding: device_batch_size = 32
+Autodetected device type: cuda
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/base_train.py", line 71, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[W1111 08:41:22.367592232 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+W1111 08:41:22.495000 85978 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86032 closing signal SIGTERM
+W1111 08:41:22.495000 85978 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86033 closing signal SIGTERM
+W1111 08:41:22.495000 85978 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86034 closing signal SIGTERM
+W1111 08:41:22.496000 85978 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86035 closing signal SIGTERM
+W1111 08:41:22.496000 85978 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86037 closing signal SIGTERM
+W1111 08:41:22.497000 85978 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86038 closing signal SIGTERM
+W1111 08:41:22.497000 85978 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86039 closing signal SIGTERM
+E1111 08:41:23.352000 85978 torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 4 (pid: 86036) of binary: /home/ubuntu/nanochat/.venv/bin/python3
+Traceback (most recent call last):
+  File "/home/ubuntu/nanochat/.venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+scripts.base_train FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-11_08:41:22
+  host      : brev-gh6u4ucff
+  rank      : 4 (local_rank: 4)
+  exitcode  : 1 (pid: 86036)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Autodetected device type: cuda
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/base_loss.py", line 29, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+W1111 08:41:33.184000 86526 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86594 closing signal SIGTERM
+W1111 08:41:33.185000 86526 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86595 closing signal SIGTERM
+W1111 08:41:33.185000 86526 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86596 closing signal SIGTERM
+W1111 08:41:33.185000 86526 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86597 closing signal SIGTERM
+W1111 08:41:33.185000 86526 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86599 closing signal SIGTERM
+W1111 08:41:33.185000 86526 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86600 closing signal SIGTERM
+W1111 08:41:33.185000 86526 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 86601 closing signal SIGTERM
+E1111 08:41:34.431000 86526 torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 4 (pid: 86598) of binary: /home/ubuntu/nanochat/.venv/bin/python3
+Traceback (most recent call last):
+  File "/home/ubuntu/nanochat/.venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+scripts.base_loss FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-11_08:41:33
+  host      : brev-gh6u4ucff
+  rank      : 4 (local_rank: 4)
+  exitcode  : 1 (pid: 86598)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Autodetected device type: cuda
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/base_eval.py", line 212, in <module>
+    main()
+  File "/home/ubuntu/nanochat/scripts/base_eval.py", line 156, in main
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+W1111 08:41:44.249000 87070 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87134 closing signal SIGTERM
+W1111 08:41:44.250000 87070 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87135 closing signal SIGTERM
+W1111 08:41:44.250000 87070 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87136 closing signal SIGTERM
+W1111 08:41:44.250000 87070 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87137 closing signal SIGTERM
+W1111 08:41:44.251000 87070 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87139 closing signal SIGTERM
+W1111 08:41:44.251000 87070 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87140 closing signal SIGTERM
+W1111 08:41:44.251000 87070 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87141 closing signal SIGTERM
+E1111 08:41:45.694000 87070 torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 4 (pid: 87138) of binary: /home/ubuntu/nanochat/.venv/bin/python3
+Traceback (most recent call last):
+  File "/home/ubuntu/nanochat/.venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+scripts.base_eval FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-11_08:41:44
+  host      : brev-gh6u4ucff
+  rank      : 4 (local_rank: 4)
+  exitcode  : 1 (pid: 87138)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 2235k  100 2235k    0     0  2703k      0 --:--:-- --:--:-- --:--:-- 2702k
+Overriding: run = dummy
+Overriding: device_batch_size = 32
+Autodetected device type: cuda
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/mid_train.py", line 58, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[W1111 08:41:56.030492219 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/mid_train.py", line 58, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/mid_train.py", line 58, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+W1111 08:41:57.034000 87596 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87678 closing signal SIGTERM
+W1111 08:41:57.035000 87596 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87679 closing signal SIGTERM
+W1111 08:41:57.035000 87596 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87680 closing signal SIGTERM
+W1111 08:41:57.036000 87596 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87681 closing signal SIGTERM
+W1111 08:41:57.036000 87596 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87683 closing signal SIGTERM
+W1111 08:41:57.036000 87596 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87684 closing signal SIGTERM
+W1111 08:41:57.037000 87596 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 87685 closing signal SIGTERM
+E1111 08:41:57.715000 87596 torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 4 (pid: 87682) of binary: /home/ubuntu/nanochat/.venv/bin/python3
+Traceback (most recent call last):
+  File "/home/ubuntu/nanochat/.venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+scripts.mid_train FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-11_08:41:57
+  host      : brev-gh6u4ucff
+  rank      : 4 (local_rank: 4)
+  exitcode  : 1 (pid: 87682)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Autodetected device type: cuda
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/chat_eval.py", line 201, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+W1111 08:42:07.345000 88105 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88172 closing signal SIGTERM
+W1111 08:42:07.345000 88105 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88173 closing signal SIGTERM
+W1111 08:42:07.345000 88105 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88174 closing signal SIGTERM
+W1111 08:42:07.345000 88105 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88175 closing signal SIGTERM
+W1111 08:42:07.346000 88105 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88177 closing signal SIGTERM
+W1111 08:42:07.346000 88105 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88178 closing signal SIGTERM
+W1111 08:42:07.347000 88105 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88179 closing signal SIGTERM
+E1111 08:42:07.925000 88105 torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 4 (pid: 88176) of binary: /home/ubuntu/nanochat/.venv/bin/python3
+Traceback (most recent call last):
+  File "/home/ubuntu/nanochat/.venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+scripts.chat_eval FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-11_08:42:07
+  host      : brev-gh6u4ucff
+  rank      : 4 (local_rank: 4)
+  exitcode  : 1 (pid: 88176)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Overriding: run = dummy
+Autodetected device type: cuda
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/chat_sft.py", line 66, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[W1111 08:42:17.688214805 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+W1111 08:42:17.744000 88592 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88711 closing signal SIGTERM
+W1111 08:42:17.744000 88592 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88712 closing signal SIGTERM
+W1111 08:42:17.745000 88592 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88713 closing signal SIGTERM
+W1111 08:42:17.745000 88592 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88714 closing signal SIGTERM
+W1111 08:42:17.745000 88592 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88716 closing signal SIGTERM
+W1111 08:42:17.745000 88592 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88717 closing signal SIGTERM
+W1111 08:42:17.746000 88592 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 88718 closing signal SIGTERM
+E1111 08:42:18.411000 88592 torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 4 (pid: 88715) of binary: /home/ubuntu/nanochat/.venv/bin/python3
+Traceback (most recent call last):
+  File "/home/ubuntu/nanochat/.venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+scripts.chat_sft FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-11_08:42:17
+  host      : brev-gh6u4ucff
+  rank      : 4 (local_rank: 4)
+  exitcode  : 1 (pid: 88715)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Autodetected device type: cuda
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/__init__.py:1617: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  _C._set_float32_matmul_precision(precision)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ubuntu/nanochat/scripts/chat_eval.py", line 201, in <module>
+    ddp, ddp_rank, ddp_local_rank, ddp_world_size, device = compute_init(device_type)
+  File "/home/ubuntu/nanochat/nanochat/common.py", line 165, in compute_init
+    torch.cuda.set_device(device)  # make "cuda" default to this device
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 567, in set_device
+    torch._C._cuda_setDevice(device)
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+W1111 08:42:28.533000 89085 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 89142 closing signal SIGTERM
+W1111 08:42:28.534000 89085 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 89143 closing signal SIGTERM
+W1111 08:42:28.534000 89085 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 89144 closing signal SIGTERM
+W1111 08:42:28.534000 89085 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 89145 closing signal SIGTERM
+W1111 08:42:28.534000 89085 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 89147 closing signal SIGTERM
+W1111 08:42:28.534000 89085 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 89148 closing signal SIGTERM
+W1111 08:42:28.535000 89085 torch/distributed/elastic/multiprocessing/api.py:908] Sending process 89149 closing signal SIGTERM
+E1111 08:42:29.082000 89085 torch/distributed/elastic/multiprocessing/api.py:882] failed (exitcode: 1) local_rank: 4 (pid: 89146) of binary: /home/ubuntu/nanochat/.venv/bin/python3
+Traceback (most recent call last):
+  File "/home/ubuntu/nanochat/.venv/bin/torchrun", line 10, in <module>
+    sys.exit(main())
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 357, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 936, in main
+    run(args)
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/run.py", line 927, in run
+    elastic_launch(
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 156, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/ubuntu/nanochat/.venv/lib/python3.10/site-packages/torch/distributed/launcher/api.py", line 293, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+scripts.chat_eval FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-11-11_08:42:28
+  host      : brev-gh6u4ucff
+  rank      : 4 (local_rank: 4)
+  exitcode  : 1 (pid: 89146)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+Generating report to /home/ubuntu/.cache/nanochat/report/report.md
+Warning: /home/ubuntu/.cache/nanochat/report/base-model-training.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/base-model-loss.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/base-model-evaluation.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/midtraining.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/chat-evaluation-mid.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/chat-sft.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/chat-evaluation-sft.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/chat-rl.md does not exist, skipping
+Warning: /home/ubuntu/.cache/nanochat/report/chat-evaluation-rl.md does not exist, skipping
+Copying report.md to current directory for convenience
