@@ -64,6 +64,21 @@ Total wall clock time: 3h51m
 
 (Your table might be missing the RL number by default). For a lot more information around the speedrun script and what to look for and expect, please refer to the walkthrough that I posted in Discussions of the repo: ["Introducing nanochat: The best ChatGPT that $100 can buy"](https://github.com/karpathy/nanochat/discussions/1).
 
+## Inference documentation
+
+If you want to run inference against an existing checkpoint (e.g. `royam0820/nanochat-speedrun-001`), serve the web UI locally, or use the bundled Jupyter notebook, see the [NanoChat Inference Guide](docs/inference.md) for step-by-step instructions.
+
+### Google Colab Notebook
+
+For a quick start in Google Colab, use the [nanochat_inference_colab.ipynb](nanochat_inference_colab.ipynb) notebook. This notebook:
+
+- Uses `snapshot_download` to efficiently download all model files (model weights, metadata, and tokenizer) from Hugging Face in one go
+- Automatically checks if the tokenizer was included in the snapshot before falling back to individual file downloads
+- Includes error handling and clear feedback messages
+- Provides examples for both single prompts and batch inference
+
+The notebook is pre-configured to work with `royam0820/nanochat-speedrun-001` and can be easily adapted for other checkpoints.
+
 ## Bigger models
 
 Unsurprisingly, $100 is not enough to train a highly performant ChatGPT clone. In fact, LLMs are famous for their multi-million dollar capex. For our purposes, I think there are two more scales of interest. First is the ~$300 tier d26 model (i.e. depth=26) that trains in ~12 hours, which slightly outperforms GPT-2 CORE score. Second is the $1000 tier (~41.6 hours), just because it's a nice round number. But both of these are not yet fully supported and therefore not attached here in the master branch yet.
